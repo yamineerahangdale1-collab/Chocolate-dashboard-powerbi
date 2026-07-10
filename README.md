@@ -59,4 +59,4 @@ Sales performance varies noticeably by region, and a small group of salespeople 
 
 Show what the dhashboard looks like: 
 
-Wxamplw : 
+Example : https://github.com/yamineerahangdale1-collab/Chocolate-dashboard-powerbi/blob/main/cocolate%20sales%20overview.png
